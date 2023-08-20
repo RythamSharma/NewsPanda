@@ -1,0 +1,306 @@
+{
+"status": "ok",
+"totalResults": 34,
+ 
+"articles": [
+ 
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": "Jonathan Stempel",
+"title": "Berkshire posts record operating profit as rising rates boost Buffett's returns   Reuters",
+"description": "Berkshire Hathaway <a href=\"https://www.reuters.com/markets/companies/BRKa.N\" target=\"_blank\">(BRKa.N)</a> on Saturday posted its highest ever quarterly operating profit, while gains from stock holdings helped the conglomerate led by billionaire Warren Buffet…",
+"url": "https://www.reuters.com/business/berkshire posts record operating profit 359 billion net income 2023 08 05/",
+"urlToImage": "https://www.reuters.com/resizer/a4gXd6zJZDuAPkmsjgiCpKalDFo=/1200x628/smart/filters:quality(80)/cloudfront us east 2.images.arcpublishing.com/reuters/KXQDIM4P5ZOLVNJKHXNELEVELE.jpg",
+"publishedAt": "2023 08 05T16:15:00Z",
+"content": "Aug 5 (Reuters)   Berkshire Hathaway (BRKa.N) on Saturday posted its highest ever quarterly operating profit, while gains from stock holdings helped the conglomerate led by billionaire Warren Buffett… [+4667 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": null,
+"name": "CBS Sports"
+},
+"author": "Dean Straka",
+"title": "Remaining Pac 12 schools share reactions as conference sees five members defect Friday to Big Ten, Big 12   CBS Sports",
+"description": "There is no clear landing spot for Stanford, Washington State, Cal and Oregon State as the Pac 12 faces dire straits",
+"url": "https://www.cbssports.com/college football/news/washington state stanford unhappy after washington oregon join pac 12 defections with move to big ten/",
+"urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/05/a23d1940 5e9c 4968 8fe0 99994a954a1c/thumbnail/1200x675/1901f59b538f9b34d0e89d3e791d8200/cal helmet getty.jpg",
+"publishedAt": "2023 08 05T15:24:00Z",
+"content": "Amid mounting defections from the Pac 12 in the latest wave of conference realignment, officials from Washington State, Stanford, Cal and Oregon State expressed their disappointment and plans for act… [+4910 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": null,
+"name": "Hollywood Reporter"
+},
+"author": "Brande Victorian",
+"title": "“Her Career is Not Done”: Despite Damaging Allegations, Some See a Path Forward for Lizzo   Hollywood Reporter",
+"description": "Despite negative headlines around claims that the musician created a toxic work environment for her former dancers, observers including Roxane Gay say she shouldn't be counted out: \"The story may be a little more complicated than the media is portraying it as…",
+"url": "https://www.hollywoodreporter.com/news/music news/lizzo lawsuit why career not done 1235551422/",
+"urlToImage": "https://www.hollywoodreporter.com/wp content/uploads/2023/08/GettyImages 1423219421 H 2023.jpg?w=1024",
+"publishedAt": "2023 08 05T15:15:43Z",
+"content": "When Lizzo’s Watch Out for the Big Grrrls reality show, championing body positivity and inclusivity, captured an Emmy last year, perhaps more notable than its upset win was the entertainer’s emotiona… [+9122 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": "associated press",
+"name": "Associated Press"
+},
+"author": "The Associated Press",
+"title": "Mega Millions players spurned again as jackpot climbs to $1.55 billion   The Associated Press",
+"description": "Another Mega Millions drawing, another night without a jackpot winner. The numbers drawn Friday night were: 11, 30, 45, 52, 56 and the gold ball 20. Because no one took the estimated $1.35 billion grand prize, the pot has increased to $1.55 billion for the ne…",
+"url": "https://apnews.com/article/mega millions lottery jackpot 255f26b17e7d0f6cf4d5dc129a54a2e9",
+"urlToImage": "https://dims.apnews.com/dims4/default/90b4987/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff7%2F32%2F9421681180c47a9e01714891ae0b%2Fc41540cf1d3940d596e1c01b18e443d5",
+"publishedAt": "2023 08 05T15:02:00Z",
+"content": "Another Mega Millions drawing, another night without a jackpot winner.\r\nThe numbers drawn Friday night were: 11, 30, 45, 52, 56 and the gold ball 20.\r\nBecause no one matched all six numbers and won t… [+856 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": "the jerusalem post",
+"name": "The Jerusalem Post"
+},
+"author": "By JERUSALEM POST STAFF",
+"title": "Jamie Foxx accused of antisemitism after post about Jews 'killing' Jesus   The Jerusalem Post",
+"description": "The actor later deleted the post and apologized, claiming that by \"they\" he meant a \"fake friend\" who had betrayed him.",
+"url": "https://www.jpost.com/diaspora/antisemitism/article 753765",
+"urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/547340",
+"publishedAt": "2023 08 05T14:15:00Z",
+"content": "Actor and musician Jamie Foxx wrote a post on Instagram on Friday saying \"They killed this dude name Jesus... What do you think they'll do to you???!\" followed by the hashtags #fakefriends #fakelove.… [+2091 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": "the washington post",
+"name": "The Washington Post"
+},
+"author": "Ellen Francis",
+"title": "NASA restores contact with lost Voyager 2 space probe after two weeks of silence   The Washington Post",
+"description": "NASA’s antenna in Canberra detected a “heartbeat” from Voyager 2 after an erroneous command tilted its antenna away from Earth and severed contact.",
+"url": "https://www.washingtonpost.com/technology/2023/08/05/nasa voyager2 contact interstellar shout/",
+"urlToImage": "https://www.washingtonpost.com/wp apps/imrs.php?src=https://arc anglerfish washpost prod washpost.s3.amazonaws.com/public/7IX36BKMMHQ747YYUVN236WC4Y.JPG&w=1440",
+"publishedAt": "2023 08 05T14:06:35Z",
+"content": "Comment on this story\r\nComment\r\nNASAs Voyager 2 was lost in space because of a mixed signal, but a command dubbed an interstellar shout and beamed across billions of miles has restored contact with t… [+2268 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": null,
+"name": "Rolling Stone"
+},
+"author": "Eric J. Greenberg",
+"title": "Two Teens Hitchhiked to a Concert. 50 Years Later, They Haven’t Come Home   Rolling Stone",
+"description": "Mitchel Weiser and Bonnie Bickwit were never heard from again after leaving for 1973’s historic Summer Jam at Watkins Glen. Five decades on, their family and friends still want answers",
+"url": "https://www.rollingstone.com/culture/culture features/mitchel weiser bonnie bickwit missing teens summer jam 1234798437/",
+"urlToImage": "https://www.rollingstone.com/wp content/uploads/2023/08/mitchel and bonnie watkins glen summer jam missing.jpg?crop=0px%2C95px%2C1440px%2C810px&resize=1600%2C900",
+"publishedAt": "2023 08 05T14:00:00Z",
+"content": "On the morning of July 27, 1973, two Brooklyn teenagers set out for central New York to attend one of the biggest concerts in rock history.\r\nThey were never seen again.\r\nOr were they? \r\nFifty years a… [+33529 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": "https://www.facebook.com/bbcnews",
+"title": "Kai Cenat: Police plan to charge Twitch streamer after PS5 giveaway mayhem   BBC",
+"description": "Police say US influencer Kai Cenat could be charged with inciting a riot after chaos in Manhattan.",
+"url": "https://www.bbc.com/news/world us canada 66416366",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A9C0/production/_130665434_gettyimages 1592934564.jpg",
+"publishedAt": "2023 08 05T13:58:14Z",
+"content": "Media caption, Watch: Chaos breaks out at NYC giveaway event\r\nPolice say they plan to charge US YouTuber Kai Cenat after a video games console giveaway event he organised sparked mayhem in New York. … [+2334 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": null,
+"name": "Digital Trends"
+},
+"author": "Alex Blake",
+"title": "In the age of ChatGPT, Macs are under malware assault   Digital Trends",
+"description": "ChatGPT is changing the world, but is it giving hackers new tools to make malicious Mac malware? We interviewed a new Mac security outfit to find out.",
+"url": "http://www.digitaltrends.com/computing/macpaw moonlock mac malware chatgpt/",
+"urlToImage": "https://www.digitaltrends.com/wp content/uploads/2023/04/Malware antivirus laptop hacker Sora Shimazaki.jpg?resize=1200%2C630&p=1",
+"publishedAt": "2023 08 05T13:30:29Z",
+"content": "It’s common knowledge — Macs are less prone to malware than their Windows counterparts. That still holds true today, but the rise of ChatGPT and other AI tools is challenging the status quo, with eve… [+5383 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Michelle Watson",
+"title": "Search for suspect underway after shooting leaves 2 Orlando officers in critical condition   CNN",
+"description": "Two Florida officers are in critical condition Saturday after a shooting Friday night, Orlando Chief Police Chief Eric D. Smith said in a news conference.",
+"url": "https://www.cnn.com/2023/08/05/us/orlando police officers shot/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230805085607 orlando shooting screengrab.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023 08 05T13:14:00Z",
+"content": "Two Florida officers are in critical condition Saturday after a shooting Friday night, Orlando Chief Police Chief Eric D. Smith said in a news conference. \r\nAt about 11 p.m., the officers were invest… [+342 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": null,
+"name": "The Seattle Times"
+},
+"author": "Alexandra Yoon Hendricks",
+"title": "Seattle area ballroom scene honors dancer fatally stabbed after voguing   The Seattle Times",
+"description": "Local ballroom organizers held a memorial ball at a Capitol Hill gas station to honor O’Shae Sibley, a dancer killed at a New York gas station after voguing.",
+"url": "https://www.seattletimes.com/seattle news/seattle area ballroom scene honors dancer fatally stabbed after vogueing/",
+"urlToImage": "https://images.seattletimes.com/wp content/uploads/2023/08/08042023_tzr_tzr_185817.jpg?d=1200x630",
+"publishedAt": "2023 08 05T13:00:00Z",
+"content": "The corner of a 76 gas station on Capitol Hill may be the last place one might expect to see a ball a performance where LGBTQ+ people of color strut and dance in celebration of their queer identities… [+2708 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Melissa Repko, Leslie Josephs",
+"title": "No more freebies: Companies crack down on customer perks and rewards   CNBC",
+"description": "Companies from Dunkin' to Delta, Netflix to Sephora are pulling back on freebies and perks as they chase higher margins.",
+"url": "https://www.cnbc.com/2023/08/05/companies crack down on customer perks and rewards like airline miles.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107282060 1691157785534 gettyimages 1258710325 US_RETAIL_SALES.jpeg?v=1691236801&w=1920&h=1080",
+"publishedAt": "2023 08 05T12:00:01Z",
+"content": "Shoppers at Brickell City Centre in Miami, Florida, US, on Wednesday, June 14, 2023. \r\nIt's not your imagination: Companies are getting stingier with customer rewards.\r\nAirlines are making it harder … [+9819 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": "the washington post",
+"name": "The Washington Post"
+},
+"author": "Toluse Olorunnipa",
+"title": "Country lacks a unifying voice in aftermath of Trump charges   The Washington Post",
+"description": "No trusted national figure has emerged to reassure the United States in a shattering moment.",
+"url": "https://www.washingtonpost.com/nation/2023/08/05/us lacks unifying figure/",
+"urlToImage": "https://www.washingtonpost.com/wp apps/imrs.php?src=https://arc anglerfish washpost prod washpost.s3.amazonaws.com/public/ZC5HYHC6Y2TDD3XH54C62G2SQA_size normalized.JPG&w=1440",
+"publishedAt": "2023 08 05T12:00:00Z",
+"content": "Comment on this story\r\nComment\r\nIn the hours after former president Donald Trump was indicted Tuesday, President Biden dined at a seafood restaurant, stopped by a movie theater to watch the summer bl… [+10959 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": "nbc news",
+"name": "NBC News"
+},
+"author": "Jon Schuppe",
+"title": "33 officer arrests in 3 years: Sheriff asks 'What are we doing wrong'   AOL",
+"description": "The sheriff of Richmond County, Georgia, is trying to figure out why there have been so many officers charged with crimes — and how to curb the misconduct.",
+"url": "https://www.nbcnews.com/news/us news/33 officer arrests 3 years sheriff asks are wrong rcna98043",
+"urlToImage": "https://media cldnry.s nbcnews.com/image/upload/t_nbcnews fp 1200 630,f_auto,q_auto:best/rockcms/2023 08/230804 sheriffs deputies georgia arrests cs 88b693.jpg",
+"publishedAt": "2023 08 05T12:00:00Z",
+"content": "Richard Roundtree, the sheriff of Richmond County, Georgia, has a problem: More than 30 of his sworn officers have been arrested over the past three years, mostly on charges of smuggling drugs or ite… [+4010 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": null,
+"title": "Comparing the Galaxy Z Flip 5, Razr Plus and Find N2 Flip: How Each Flip Phone Stacks Up   CNET",
+"description": "Samsung's faces stiff competition from Motorola and Oppo. Here's how the three foldable flip phones compare.",
+"url": "https://www.cnet.com/tech/mobile/samsung galaxy z flip 5 vs motorola razr plus oppo find n2 flip how each flip phone stacks up/",
+"urlToImage": "https://www.cnet.com/a/img/resize/4aaea77725196d6169de2e928b60409718aed96b/hub/2023/07/26/cd9770a9 5705 4ea7 887a 510e990bee6e/samsung galaxy z flip 5.jpg?auto=webp&fit=crop&height=675&width=1200",
+"publishedAt": "2023 08 05T12:00:00Z",
+"content": "Samsung's new Galaxy Z Flip 5, debuted at the company's Unpacked event last week, revealing design changes that include a wider cover screen and a redesigned hinge. The new Z Flip 5 faces competition… [+6073 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": "associated press",
+"name": "Associated Press"
+},
+"author": "RIAZAT BUTT",
+"title": "Pakistani police arrest former Prime Minister Imran Khan after court conviction   The Associated Press",
+"description": "Pakistani police have arrested former Prime Minister Khan after a court handed him a three year jail sentence for corruption. It’s the second time the popular opposition leader has been detained this year. His Saturday arrest followed a court convicting him e…",
+"url": "https://apnews.com/article/pakistan imran khan convicted e44842d4880c581ee093ff680a9a09d6",
+"urlToImage": "https://dims.apnews.com/dims4/default/eb8763e/2147483647/strip/true/crop/7406x4166+0+386/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fac%2F0a%2F9db715159accf1d27068935ee433%2Fcd5f8a7482124c2b9e4e26405d71a9bf",
+"publishedAt": "2023 08 05T11:50:00Z",
+"content": "ISLAMABAD (AP) Pakistans former Prime Minister Imran Khan was arrested Saturday after a court handed him a three year jail sentence for corruption, a development that could end his future in politics… [+3762 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Paul Tassi",
+"title": "Baldur’s Gate 3’s Statement On Microtransactions Warms The Heart   Forbes",
+"description": "Baldur’s Gate 3 is looking to be one of the best games of 2023 in a year already full of some of the best games of the generation. And their stance on microtransactions is great.",
+"url": "https://www.forbes.com/sites/paultassi/2023/08/05/baldurs gate 3s statement on microtransactions warms the heart/",
+"urlToImage": "https://imageio.forbes.com/specials images/imageserve/64ce348b6744b6ee1c364b30/0x0.jpg?format=jpg&width=1200",
+"publishedAt": "2023 08 05T11:42:41Z",
+"content": "Baldur's Gate 3\r\nLarian\r\nBaldurs Gate 3 is looking to be one of the best games of 2023 in a year already full of some of the best games of the generation. It hit nearly 600,000 concurrents yesterday … [+2371 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": "cbs news",
+"name": "CBS News"
+},
+"author": "Alexander Tin",
+"title": "FDA approves zuranolone, first pill for postpartum depression   CBS News",
+"description": "Drugmakers Sage Therapeutics and Biogen hope to change how depression following childbirth is treated.",
+"url": "https://www.cbsnews.com/news/fda approves zuranolone first pill for postpartum depression/",
+"urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/19/3dcc181e 204b 419c 9b60 bfd7c5a9aa2b/thumbnail/1200x630/8f7defbac5be51c534d88a1b35c82349/gettyimages 496532228.jpg?v=523df724471d66f84598615fede8d33f",
+"publishedAt": "2023 08 05T11:26:00Z",
+"content": "The Food and Drug Administration announced Friday it has approved the first oral treatment for postpartum depression. The drug, called zuranolone, is a once a day pill that will be branded as Zurzuva… [+4104 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": null,
+"name": "The Athletic"
+},
+"author": "Michael Cox",
+"title": "Sweden and the USWNT: A common fight to keep up with western Europe   The Athletic",
+"description": "Sweden have consistently performed well on the world stage, but their place near the top of the game is under threat",
+"url": "https://theathletic.com/4750081/2023/08/05/sweden uswnt womens world cup/",
+"urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/04204345/GettyImages 1312377597 scaled.jpg",
+"publishedAt": "2023 08 05T11:18:33Z",
+"content": "The United States failure to defeat Portugal on Tuesday was a setback in many respects.\r\nIt was a terrible performance, with Portugal only denied a famous win by the width of a post. It was a psychol… [+12573 chars]"
+},
+ 
+{
+ 
+"source": {
+"id": "usa today",
+"name": "USA Today"
+},
+"author": "Lorenzo Reyes",
+"title": "Pro Football Hall of Fame ceremony: How to watch, stream, date, time   USA TODAY",
+"description": "Nine new members of the Pro Football Hall of Fame will be enshrined as part of the Class of 2023, bringing the number of inducted people to 371.",
+"url": "https://www.usatoday.com/story/sports/nfl/2023/08/05/pro football hall of fame ceremony live stream time tv info/70520922007/",
+"urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring images/2023/08/05/USAT/70534401007 usatsi 21145423.jpg?crop=3596,2030,x0,y129&width=3200&height=1807&format=pjpg&auto=webp",
+"publishedAt": "2023 08 05T11:04:09Z",
+"content": "The Pro Football Hall of Fame will immortalize another class in Canton.\r\nNine players will join those already enshrined at the iconic museum in Northeastern Ohio to bring the total number of Hall of … [+1835 chars]"
+}
+]
+}
